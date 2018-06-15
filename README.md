@@ -1,3 +1,3 @@
 # Projects
 
-This is where I would put all my work and thoughts in computer science.
+This is where I would put all comments and working progress of my projects.
