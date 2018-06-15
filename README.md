@@ -1,3 +1,3 @@
-# Projects
+# Programming Process
 
-This is where I would put all comments and working progress of my projects.
+I will put all the programming records of my projects here.
